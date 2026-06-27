@@ -1,3 +1,10 @@
+---
+name: Tech
+about: Implement new technology
+title: "[Tech]"
+labels: tech
+---
+
 ## Overview
 
 Brief description of the technical task.

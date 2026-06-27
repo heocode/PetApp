@@ -1,3 +1,10 @@
+---
+name: Feature
+about: Implement a new feature
+title: "[Feature]"
+labels: feature
+---
+
 ## Overview
 
 Brief description of the feature.
