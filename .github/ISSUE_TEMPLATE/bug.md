@@ -1,11 +1,8 @@
----
-name: Bug
-about: Report a bug
-title: "[Bug] "
-labels: bug
----
-
 ## Description
+
+Describe the issue.
+
+---
 
 ## Steps to Reproduce
 
@@ -13,8 +10,18 @@ labels: bug
 2.
 3.
 
+---
+
 ## Expected Behavior
 
+What should happen?
+
+---
+
 ## Actual Behavior
+
+What actually happens?
+
+---
 
 ## Additional Notes

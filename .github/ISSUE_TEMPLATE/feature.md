@@ -1,17 +1,21 @@
+## Overview
+
+Brief description of the feature.
+
 ---
-name: Feature
-about: Implement a new feature
-title: "[Feature] "
-labels: feature
+
+## User Flow
+
+Describe how the user interacts with this feature.
+
 ---
 
-## Description
+## Business Rules
 
-Describe the feature.
+- Rule 1
+- Rule 2
 
-## Motivation
-
-Why is this feature needed?
+---
 
 ## Acceptance Criteria
 
@@ -19,4 +23,8 @@ Why is this feature needed?
 - [ ]
 - [ ]
 
-## Additional Notes
+---
+
+## Technical Notes
+
+Implementation details or architectural decisions.
