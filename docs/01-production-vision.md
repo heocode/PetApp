@@ -2,45 +2,35 @@
 
 ## Purpose
 
-PetApp is a production-inspired learning project created to explore the complete software development lifecycle by building a modern full-stack mobile application from scratch.
+Centennial Connection is a student networking platform designed to help students build meaningful connections throughout their academic journey.
 
-The goal is not only to build a working application, but to understand how real-world software is planned, designed, implemented, deployed, and maintained. Every major engineering decision will be documented throughout the project.
+The application provides a centralized place where students can discover classmates, communicate in real time, participate in communities, join clubs, attend events, and stay connected with campus life.
+
+The project also serves as a long-term software engineering initiative focused on building a production-quality application using modern development practices.
 
 ---
 
 ## Vision
 
-PetApp is a mobile application that allows users to create an account, connect with other users, and communicate through real-time messaging.
+The vision of Centennial Connection is to become the primary digital community for students, bringing together communication, collaboration, and campus engagement within a single platform.
 
-The project prioritizes simplicity, clean architecture, maintainable code, and a structured development process over feature quantity. Each implemented feature should contribute to learning a specific software engineering concept.
+Rather than being limited to private messaging, the platform aims to create an ecosystem where students can build friendships, discover opportunities, participate in student organizations, and engage with their university community.
+
+The application is designed with scalability in mind, allowing new features and institutions to be added while maintaining a clean, modular architecture.
 
 ---
 
 ## Minimum Viable Product (MVP)
 
-### Authentication
+The first release focuses on building a stable and production-ready foundation.
 
-- User registration
-- User login
-- JWT authentication
+The MVP includes:
 
-### User Profile
-
-- Username
-- Profile picture
-- Unique user ID
-
-### Friends
-
-- Search users by ID
-- Send friend requests
-- Accept requests
-- Decline requests
-- Friends list
-
-### Messaging
-
-- One-to-one conversations
+- User authentication
+- User onboarding
+- Friend requests
 - Real-time messaging
-- Message history
-- Online status
+- User profiles
+- Account management
+
+These core features establish the foundation for future platform growth while delivering immediate value to students.
